@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product version="3" modelHash="-8zdyh7rhco52tb067dvkopvui5cpyfv">
+  <files names="TypesystemDescriptor.java:check_duplicate_NonTypesystemRule.java:typeof_binary_expression_InferenceRule.java:typeof_for_loop_InferenceRule.java:typeof_number_literal_InferenceRule.java:typeof_string_literal_InferenceRule.java:typeof_variable_referance_InferenceRule.java:typeof_variables_InferenceRule.java:typeof_while_loop_InferenceRule.java" />
+</product>
+
